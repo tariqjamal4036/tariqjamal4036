@@ -22,7 +22,7 @@
 ```python
 class TariqJamal:
     name        = "Tariq Jamal"
-    location    = "Peshawar, KPK, Pakistan 🇵🇰"
+    location    = " Tehsil Wari District Upper Dir Peshawar, KPK, Pakistan 🇵🇰"
     university  = "University of Engineering and Applied Sciences, Swat"
     degree      = "BS Artificial Intelligence  ·  4th Semester"
 
@@ -174,6 +174,6 @@ class TariqJamal:
 <div align="center">
 
 > *"From KPK to the world — engineering the future with AI."*  
-> — **Tariq Jamal** &nbsp;·&nbsp; BS Artificial Intelligence &nbsp;·&nbsp; Peshawar, Pakistan 🇵🇰
+> — **Tariq Jamal** &nbsp;·&nbsp; BS Artificial Intelligence &nbsp;·&nbsp; Tehsil Wari District Upper Dir Peshawar, KPK, Pakistan 🇵🇰
 
 </div>
