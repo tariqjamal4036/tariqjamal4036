@@ -158,9 +158,9 @@ class TariqJamal:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-tariqjamal-00d4ff?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/tariqjamal)
-[![Email](https://img.shields.io/badge/Email-tariqjamal%40gmail.com-ff4444?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:tariqjamal@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariq%20Jamal-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/tariqjamal)
+[![GitHub](https://img.shields.io/badge/GitHub-tariqjamal-00d4ff?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/tariqjamal4036)
+[![Email](https://img.shields.io/badge/Email-tariqjamal%40gmail.com-ff4444?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:tariqjamalpro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariq%20Jamal-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/tariq-j-93947b26b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Kaggle](https://img.shields.io/badge/Kaggle-tariqjamal-20beff?style=for-the-badge&logo=kaggle&logoColor=ffffff)](https://kaggle.com/tariqjamal)
 [![Location](https://img.shields.io/badge/Location-Peshawar%2C%20KPK%2C%20Pakistan-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=ffffff)](#)
 
